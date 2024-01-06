@@ -8,9 +8,9 @@
 
 #include <d3d11.h>
 
-#include "../Game/build/vs2017/include/imGUI/imgui.h"
-#include "../Game/build/vs2017/include/imGUI/imgui_impl_dx11.h"
-#include "../Game/build/vs2017/include/imGUI/imgui_impl_win32.h"
+#include "../Client/build/vs2017/include/imGUI/imgui.h"
+#include "../Client/build/vs2017/include/imGUI/imgui_impl_dx11.h"
+#include "../Client/build/vs2017/include/imGUI/imgui_impl_win32.h"
 #include <system/platform.h>
 //#include "colour.h"
 
